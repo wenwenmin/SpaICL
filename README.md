@@ -1,4 +1,4 @@
-# SpaBatch
+# SpaICL
 ![image](https://github.com/wenwenmin/SpaICL/blob/main/Fig1.png)
 
 ## Overview
