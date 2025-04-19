@@ -18,5 +18,3 @@ We provide an example to test SpaICL on the DLPFC/BRCA/MBA dataset. You can test
 ## Contact details
 If you have any questions, please contact zhao_jingcheng@aliyun.com and minwenwen@ynu.edu.cn.
 
-## Article link
----
