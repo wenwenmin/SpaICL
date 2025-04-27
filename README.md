@@ -6,7 +6,7 @@ Our proposed framework deeply integrates gene expression, spatial location, and 
 Next, the framework employs a dual-layer cross-attention module to align modalities, integrating them with the original gene expression latent representation. To ensure stable training, a curriculum learning strategy is adopted, gradually aligning local features before global alignment. Finally, the fused low-dimensional representation is used for downstream spatial domain identification, visualization, and other subsequent analyses.
 
 ## Datasets
-Data are available at: https://zenodo.org/records/15238984.
+Data are available at: https://zenodo.org/records/15289323.
 
 ## Installations
 - NVIDIA GPU (a single Nvidia GeForce RTX 3060)
