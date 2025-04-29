@@ -13,7 +13,7 @@ Data are available at: https://zenodo.org/records/15289323.
 - `pip install -r requiremnt.txt`
   
 ## Running demo
-We provide an example to test SpaICL on the DLPFC/BRCA/MBA dataset. You can test by running the 151675.ipynb/BRCA.ipynb/MBA.ipynb file.
+We provide an example to test SpaICL on the DLPFC/BRCA/MBA dataset. You can test by running the Run_151675.ipynb/Run_BRCA.ipynb/Run_MBA.ipynb file.
 
 ## Contact details
 If you have any questions, please contact zhao_jingcheng@aliyun.com and minwenwen@ynu.edu.cn.
