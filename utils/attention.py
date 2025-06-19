@@ -12,7 +12,6 @@ class Attention(nn.Module):
         self.attn_drop = nn.Dropout(attn_drop)
 
     def forward(self, q, k, v, scale):
-        # todo: attn = (q @ k.transpose(0, 1)) * scale
         attn = (q @ k.transpose(-2, -1)) * scale
         attn = attn.softmax(dim=-1)
         attn = self.attn_drop(attn)
