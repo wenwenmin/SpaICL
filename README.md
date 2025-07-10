@@ -10,7 +10,7 @@ Data are available at: https://zenodo.org/records/15289323.
 
 ## Installations
 - NVIDIA GPU (a single Nvidia GeForce RTX 3060)
-- `pip install -r requiremnt.txt`
+
   
 ## Running demo
 We provide an example to test SpaICL on the DLPFC/BRCA/MBA dataset. You can test by running the Run_151675.ipynb/Run_BRCA.ipynb/Run_MBA.ipynb file.
