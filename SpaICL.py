@@ -100,3 +100,4 @@ class spaicl:
         self.model.eval()
         enc_rep, recon = self.model.evaluate(self.X, self.img, self.adj_norm, self.adj_coo)
         return enc_rep, recon
+        
