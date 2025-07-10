@@ -458,4 +458,3 @@ class MainModel(nn.Module):
         recon = self.decoder(latent, edge_index)
 
         return latent, recon
-
